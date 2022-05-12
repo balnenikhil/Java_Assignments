@@ -1,0 +1,16 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(á£ÁÖøÿÿÿÿ8‡ÄûâŠ0
+`
+java:S2259
+"CA "NullPointerException" could be thrown; "error" is nullable here.(¦‡†æ8¯¹óâŠ0
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(á£ÁÖøÿÿÿÿ8™ÄûâŠ0
+f
+java:S1659"DDeclare "number2" and all following declarations on a separate line.(úë ¯ÿÿÿÿÿ8²‚ñâŠ0
+G
+java:S1197"*Move the array designators [] to the type.(Ã¶âù8³‚ñâŠ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µ¥¶ş8´‚ñâŠ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8¸‚ñâŠ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ƒôµ®8º‚ñâŠ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8¾‚ñâŠ0
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(œú“ßúÿÿÿÿ8¿‚ñâŠ0

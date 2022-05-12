@@ -1,0 +1,26 @@
+
+u	java:S135""YReduce the total number of break and continue statements in this loop to use at most one.(Ï±¨8™¸„¸Š0
+r	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¨å½üÿÿÿÿ8š¸„¸Š0
+m	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø¸³é8›¸„¸Š0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁÜá¶üÿÿÿÿ
+R
+java:S1854"5Remove this useless assignment to local variable "s".(£ê…æ8æ¸„¸Š0
+F
+java:S1197"*Move the array designators [] to the type.(¸Ñ°.8¹„¸Š0
+G
+java:S1197"*Move the array designators [] to the type.(ã¸Ï8™¹„¸Š0
+j
+java:S3986"HMake sure that week Year "YYYY" is expected here instead of Year "yyyy".(÷›»Èûÿÿÿÿ8¹„¸Š0
+G
+java:S1197%"*Move the array designators [] to the type.(ÇŞÒ8 ¹„¸Š0
+L
+java:S1197'"*Move the array designators [] to the type.(Ò¨å½üÿÿÿÿ8¢¹„¸Š0
+G
+java:S1197("*Move the array designators [] to the type.(Ø¸³é8¤¹„¸Š0
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(şñ‚Ÿıÿÿÿÿ8©¹„¸Š0
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(¡Œü¶8ª¹„¸Š0
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(µí‰Ñúÿÿÿÿ8®¹„¸Š0
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(Øˆ§ÿùÿÿÿÿ8±¹„¸Š0
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(Í•§¯ÿÿÿÿÿ8´¹„¸Š0
+T
+java:S1128	"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8¸¹„¸Š0

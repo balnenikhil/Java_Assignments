@@ -1,0 +1,12 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(―ªιϊÿÿÿÿ8ƒλη0
+S
+java:S1153"1Directly append the argument of String.valueOf().(γΠ’Ξόÿÿÿÿ8…λη0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(γ Άωÿÿÿÿ
+j
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ί΄ώΆψÿÿÿÿ8Μλη0
+e
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(τύΖ8Μλη0
+R
+java:S1128	"0Remove this unused import 'java.util.Map.Entry'.(±ώκΎϊÿÿÿÿ8—μη0

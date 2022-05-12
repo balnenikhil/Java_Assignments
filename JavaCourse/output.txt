@@ -1,0 +1,12 @@
+Radius of Circle : 4.0
+Area of Circle : 50.26548245743669
+Radius of Circle : 5.0
+Area of Circle : 78.53981633974483
+Radius of Circle : 6.0
+Area of Circle : 113.09733552923255
+Radius of Circle : 7.0
+Area of Circle : 153.93804002589985
+Radius of Circle : 8.0
+Area of Circle : 201.06192982974676
+Radius of Circle : 3.0
+Area of Circle : 28.274333882308138
