@@ -1,0 +1,9 @@
+
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘
+=
+java:S2326""Employee is not used in the class.(Ï±ÁØüÿÿÿÿ
+c	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(Ï±ÁØüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(•…÷´ýÿÿÿÿ
+C
+java:S1125"(Remove the unnecessary boolean literals.(ÖÒÿÁùÿÿÿÿ
