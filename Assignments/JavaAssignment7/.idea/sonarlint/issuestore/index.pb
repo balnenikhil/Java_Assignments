@@ -3,12 +3,8 @@ F
 src/Rodent/Rodent.java,e/d/ed5da78ed752992e13aedc1dfd03f81e48ec8071
 G
 src/Rodent/Rodents.java,8/1/815116482741ec453234b7a7182a54f71959fd01
-H
-src/Cycle/MainCycle.java,6/1/61fd26d74377475d44768a213ba5d644e688bcbf
 P
  src/Interface/InterfaceImpl.java,8/d/8dd72bb2056a383d35c68c160a3e2c938f0f7d2a
-T
-$src/cyclefactory/CycleFactories.java,1/f/1f9a24a6dfddf6928e1d466ae7fced3814765c64
 O
 src/InnerClass/Assignment7.java,c/7/c71619c6b9ed0fb1d5bbaa8c044a2256a2488a00
 G
